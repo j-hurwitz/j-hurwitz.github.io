@@ -1,0 +1,30 @@
+---
+layout: page
+title: Research Projects
+permalink: /research/
+---
+
+### Fast KModes Clustering for Sparse Binary Data (2022)
+ ![KModes Clustering - from Midjourney](/assets/kmodes.png){: width="150"}
+
+Designed and implemented a complete scikit-learn-style Python package which performs fast KModes machine learning clustering on sparse binary data. Delivered a significant 20-30x speedup factor over popular open-source implementation. Productized and delivered to mission customer application. Utilized for daily scheduled ML clustering.
+
+Relevant papers:
+- [Extensions to the k-Means Algorithm for Clustering Large Data Sets with Categorical Values](https://www.scinapse.io/papers/2149230623)
+
+### Lempel Ziv Networks (2021)
+![Recurrent Neural Network combined with Symbolic AI - from Midjourney](/assets/rnn.png){: width="150"}
+
+Extend a sequence processing algorithm (LZJD) intended for discrete data to the domain of real-valued data through a custom recurrent neural network architecture. Gathered baseline metrics by training an LSTM for time series classification across 128 datasets in the UCR Time Series Archive. Features in NeurIPS 2022 Workshop "I Can't Believe It's Not Better!"
+
+Rebecca Saul, Mohammad Mahmudul Alam, **John Hurwitz**, Edward Raff, Tim Oates, James Holt Proceedings on "I Can't Believe It's Not Better! - Understanding Deep Learning Through Empirical Falsification" at NeurIPS 2022 Workshops, PMLR 187:1-11, 2023.
+
+Relevant papers:
+- [Lempel Ziv Networks](https://arxiv.org/pdf/2211.13250.pdf)
+- [Long Short-Term Memory](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf)
+- [An Alternative to NCD for Large Sequences, LempelZiv Jaccard Distance](https://www.edwardraff.com/publications/alternative-ncd-lzjd.pdf)
+- [Lempel-ziv jaccard distance, an effective alternative to ssdeep and
+sdhash](https://arxiv.org/pdf/1708.03346.pdf)
+- [PyLZJD: An easy to use tool for machine
+learning](https://conference.scipy.org/proceedings/scipy2019/pdfs/pylzjd.pdf)
+
