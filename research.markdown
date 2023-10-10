@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Projects
-permalink: /research/
+title: Computer Science
+permalink: /computer-science/
 ---
 
 ### Fast KModes Clustering for Sparse Binary Data (2022)
