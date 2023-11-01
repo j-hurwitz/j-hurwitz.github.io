@@ -6,8 +6,8 @@ permalink: /music/
 
 # Upcoming Club Dates
 
-- **October 14, 2023 (Saturday)**
-  - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 1-5pm
+- **November 29, 2023 (Wednesday)**
+  - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 6-9pm
 
 - **January 14, 2024 (Sunday)**
   - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 5-9pm
