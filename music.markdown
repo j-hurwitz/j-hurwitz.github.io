@@ -4,10 +4,11 @@ title: Music
 permalink: /music/
 ---
 
-# Upcoming Club Dates
+<div style="text-align: center;" markdown="1">
+  ![music](/assets/music.png){: width="450px"}
+</div>
 
-- **March 10, 2024 (Sunday)**
-  - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 5-9pm
+# Upcoming Club Dates
 
 - **April 14, 2024 (Sunday)**
   - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 5-9pm
