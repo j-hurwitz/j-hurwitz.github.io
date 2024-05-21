@@ -10,12 +10,6 @@ permalink: /music/
 
 # Upcoming Club Dates
 
-- **April 14, 2024 (Sunday)**
-  - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 5-9pm
-
-- **May 12, 2024 (Sunday)**
-  - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 5-9pm
-
 - **June 9, 2024 (Sunday)**
   - Dundalk, MD @ [Hard Yacht Cafe](https://hardyacht.com/) 5-9pm
 
